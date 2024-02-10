@@ -1,7 +1,7 @@
 # ExpansionYCobertura
 ### Visualización Colonias Prioritarias Censo 2020:
-bity.ly/
+bit.ly/ColoniasPrioritariasCenso2020
 ### Visualización Información Censo 2020:
-bit.ly/
+bit.ly/InformacionCenso2020
 ### Carpeta de Google Drive:
-https://drive.google.com/drive/folders/1sGPFRQQxFvTNg5YW06H3-v7qJhjBF_IA?usp=sharing
+drive.google.com/drive/folders/1sGPFRQQxFvTNg5YW06H3-v7qJhjBF_IA?usp=sharing
